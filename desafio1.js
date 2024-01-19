@@ -1,5 +1,13 @@
 //Classificador de Nível de Herói
 
+//iniciar S/N
+//Informe o nome do Heroi
+//Informe o EXP do Heroi
+//exibir classificação
+//Deseja continuar? S/N
+//loop
+
+
 let heroiNOME = 'Antonio';
 let heroiEXP = 9500;
 let heroiLVL = '';
