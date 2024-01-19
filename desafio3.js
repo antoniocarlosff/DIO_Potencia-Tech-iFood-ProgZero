@@ -13,7 +13,7 @@ class clHeroi {
     }
 
     //método para definir tipo de ataque
-    getTipoAtaque() {
+    ataqueTIPO() {
 
         var ataqueTIPO;
 
@@ -40,7 +40,7 @@ class clHeroi {
 
     //método atacar
     moveATACAR() {
-        var moveATAQUE = this.getTipoAtaque();
+        var moveATAQUE = this.ataqueTIPO();
         console.log(`O ${this.heroiTIPO} atacou usando ${moveATAQUE}`);
     }
 }
