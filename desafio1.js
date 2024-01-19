@@ -1,3 +1,5 @@
+//Classificador de Nível de Herói
+
 let heroiNOME = 'Antonio';
 let heroiEXP = 9500;
 let heroiLVL = '';
